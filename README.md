@@ -26,3 +26,19 @@ Software engineer focused on AI, blockchain, DAOs & developer tooling.
 ---
 
 [![Tip in Crypto](https://tip.md/badge.svg)](https://tip.md/wtfsayo)
+
+<!-- WALLET-LINKING-BEGIN
+{
+  "lastUpdated": "2025-05-31T19:54:28.346Z",
+  "wallets": [
+    {
+      "chain": "ethereum",
+      "address": "0xd257FDc3FD572a82b30D4b17ec43ec09862843B2"
+    },
+    {
+      "chain": "solana",
+      "address": "D2T4FdGvt8KrQqWYYsEKdiTnGmRCnbtsUrNcN1jbJ3Ls"
+    }
+  ]
+}
+WALLET-LINKING-END -->
