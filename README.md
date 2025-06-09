@@ -19,7 +19,7 @@ Software engineer focused on AI, blockchain, DAOs & developer tooling.
 ## Current Focus
 
 - Core contributor to elizaOS autonomous agent framework
-- Building Web3 infrastructure and governance tools with RaidGuild
+- Building Web3 infrastructure and governance tools with RaidGuild, Solidity Guild
 - Developing RAG systems for decentralized AI
 - Creating developer tooling for blockchain ecosystems
 
