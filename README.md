@@ -9,8 +9,9 @@ Software engineer focused on AI, blockchain, DAOs & developer tooling.
 
 **Languages:** TypeScript, Python, JavaScript, Go, Solidity  
 **Frameworks:** Next.js, React, Node.js, NestJS
+
 **Specialties:** AI Agents, RAG Systems, Web3 Infrastructure, DAO Tooling  
-**Organizations:** RaidGuild, elizaOS
+**Organizations:** RaidGuild, Solidity Guild, elizaOS
 
 ## GitHub Stats
 
