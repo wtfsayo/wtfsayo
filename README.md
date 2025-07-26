@@ -26,6 +26,10 @@ Software engineer focused on AI, blockchain, DAOs & developer tooling.
 
 ---
 
+Contact: hi@sayo.wtf
+
+---
+
 [![Tip in Crypto](https://tip.md/badge.svg)](https://tip.md/wtfsayo)
 
 <!-- WALLET-LINKING-BEGIN
