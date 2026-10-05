@@ -2,8 +2,9 @@
 
 agents, markets, and the tooling between them.
 
-- core contributor @ [elizaOS/eliza](https://github.com/elizaOS/eliza) — 540+ merged PRs, 3.3k commits to the open-source agentic OS
+- core contributor @ [elizaOS/eliza](https://github.com/elizaOS/eliza) — 700+ merged PRs, 3.7k commits to the open-source agentic OS
 - 900+ merged PRs across open source
+- contributed to: [oh-my-pi](https://github.com/can1357/oh-my-pi) · [acpx](https://github.com/openclaw/acpx) · [headlong](https://github.com/laude-institute/headlong) · [claude-code-proxy](https://github.com/raine/claude-code-proxy) · [nice-node](https://github.com/NiceNode/nice-node) · [steward](https://github.com/Steward-Fi/steward)
 - lately: perp trading research on [Hyperliquid](https://github.com/hypurrclaw/hyperliquid-cli), agent harnesses, and dev tooling
 - before that: web3 infra & DAO tooling with RaidGuild, POKT gateways, governance frames
 
